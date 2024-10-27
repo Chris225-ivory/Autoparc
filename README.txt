@@ -1,4 +1,7 @@
-Application de gestion de parc automobile pour une entreprise de location 
+Nom et Prénom : N'Dri Chris Elphryd Sehi, Classe : L2 A MIAGE
+https://github.com/Chris225-ivory/Autoparc
+
+Application de gestion de parc automobile pour une entreprise de location
 L'application nous permet de gérer la location de véhicules pour une entreprise. Elle permet d enregistrer des véhicules et aussi les clients. Les clients enregistrer peuvent louer des véhicules disponible, retourner des véhicules qu ils ont deja louer, et lister les véhicules disponibles ou loués. L'application assure une tres bonne gestion de l'état de chaque véhicule soit elle sont disponible ou elles sont loués.  Le client peut reserver le véhicule le jour qu'il veut et de la retourner quand il veut en fonction des information qu'il aura inscrit dans l'application.
 
 Fonctionnalités principales:
